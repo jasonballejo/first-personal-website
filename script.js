@@ -1,4 +1,4 @@
-const h2 = document.createElement("h2");
-h2.textContent = "This content added by JavaScript";
+/*const h2 = document.createElement("h2");
+h2.textContent = "A student here to learn and create using JavaScript, HTML & CSS";
 
-document.querySelector("body").appendChild(h2);
+document.querySelector("body").appendChild(h2);*/

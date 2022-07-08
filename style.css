@@ -1,9 +1,33 @@
 body {
-    background: whitesmoke;
+    background: #F9F6F0;
   }
 
-h1 {
-    color: #007A33;
-    font-family: 'Times New Roman', Times, serif;
-    /* background-color: #BA9653; */
+.opener {
+    padding: 5rem;
+    padding-top: 80px;
+    float: left;
 }
+
+.opener h1 {
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 1px;
+    font-size: 40px;
+    padding-bottom: 80px;
+}
+
+.opener h2 {
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 100;
+    font-size: 70px;
+    color: black;
+    text-transform: capitalize;
+    line-height: 58px;
+}
+
+.opener h3 {
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+}
+
