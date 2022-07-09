@@ -49,7 +49,14 @@ body {
 
 .footer li {
     color: white;
-    background-color: red;
     float: left;
     list-style-type: none;
+    width: 10%;
+    text-align: center;
+    width: 60px;
+    height: 50px;
+}
+
+.footer img {
+    filter: saturate(40%) opacity(60%);
 }
