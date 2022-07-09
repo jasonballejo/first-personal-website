@@ -31,6 +31,16 @@ body {
     font-size: 16px;
 }
 
+.right_side {
+    background-color: red;
+    float: right;
+    text-transform: capitalize;
+}
+
+script {
+    background-color: red;
+}
+
 .footer {
     background: #0d1931;
     height: auto;
