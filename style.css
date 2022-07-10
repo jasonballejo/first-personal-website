@@ -5,7 +5,7 @@ body {
   }
 
 .background-image {
-    background: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.1)), url(/waves.jpg);;
+    background: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.1)), url(./waves.jpg);;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
