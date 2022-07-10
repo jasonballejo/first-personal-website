@@ -25,6 +25,12 @@ body {
     letter-spacing: 1px;
     font-size: 40px;
     padding-bottom: 80px;
+    background-image: linear-gradient(to top, #14155d 0%, #000000 100%);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
 }
 
 .opener h2 {
